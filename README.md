@@ -54,9 +54,11 @@ https://github.com/byellin/IDD-Fa19-Lab4/blob/master/IMG_7247.JPG
 
 **a. Make a video of your proto puppet.**
 
-
+![Prototype of Puppet](https://github.com/byellin/IDD-Fa19-Lab4/blob/master/Puppet%20in%20Action.MOV)
 
 ## Part E. Make it your own
 
 **a. Make a video of your final design.**
+
+![Final Design](https://github.com/byellin/IDD-Fa19-Lab4/blob/master/Make%20it%20Your%20Own.MOV)
  
