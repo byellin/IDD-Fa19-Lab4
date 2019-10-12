@@ -60,5 +60,7 @@ void loop() {
 
 **a. Make a video of your final design.**
 
+This circuit has a photoresistor attached to it that causes the serial monitor to print "It's dark outside" if there is not much light reaching the photoresistor, and print "It's light outside" if there is a lot of light reaching the photoresistor. 
+
 ![Final Design](https://github.com/byellin/IDD-Fa19-Lab4/blob/master/Make%20it%20Your%20Own.MOV)
  
