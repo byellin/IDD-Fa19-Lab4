@@ -10,6 +10,8 @@ To submit your lab, clone [this repository](https://github.com/FAR-Lab/IDD-Fa18-
 
 **Link to a video of your vibration motor**
 
+![DC Motor Video](https://github.com/byellin/IDD-Fa19-Lab4/blob/master/Vibration%20Motor.MOV)
+
 ## Part B. Actuating Servo motors
 
 ### Part 1. Connect the Servo to your breadboard
