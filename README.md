@@ -30,7 +30,7 @@ The signal line of the servo is attached to pin 9 on the Arduino.
 
 **b. What aspects of the Servo code control angle or speed?**
 
-This loop controls the angle of the servo motor. 
+This loop controls the angle of the servo motor. The increment position controls the speed of the motor. 
 
 void loop() {
   for (pos = 0; pos <= 180; pos += 1) { // goes from 0 degrees to 180 degrees
@@ -47,6 +47,8 @@ void loop() {
 ## Part C. Integrating input and output
 
 **Include a photo/movie of your raw circuit in action.**
+
+https://github.com/byellin/IDD-Fa19-Lab4/blob/master/IMG_7247.JPG
 
 ## Part D. Paper puppet
 
