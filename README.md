@@ -48,7 +48,7 @@ void loop() {
 
 **Include a photo/movie of your raw circuit in action.**
 
-https://github.com/byellin/IDD-Fa19-Lab4/blob/master/IMG_7247.JPG
+![Raw Circuit in Action](https://github.com/byellin/IDD-Fa19-Lab4/blob/master/IMG_7247.JPG)
 
 ## Part D. Paper puppet
 
